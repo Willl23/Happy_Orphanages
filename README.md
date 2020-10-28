@@ -26,19 +26,19 @@ Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelw
 <h1>Como executar o projeto? </h1>
 <p>  Antes de iniciar o projeto, instale Git e Node.Js em sua máquina. </p>
 
-# Clone este repositório
+<h2>Clone este repositório</h2>
 $ git clone https://github.com/Willl23/Happy_Orphanages
 
-# Acesse o repositório em seu terminal. Exemplo: 
+<h2> Acesse o repositório em seu terminal. Exemplo: </h2>
 $ cd / happy
 
-# Instalar dependências
+<h2> Instalar dependências </ha>
 $ npm install
 
-# Run
+<h2> Run </h2>
 $ npm início
 
-# Acesse http: // localhost: 5500 em seu navegador
+<h2> Acesse http: // localhost: 5500 em seu navegador </h2>
 
 ## 🔖 Layout
 
@@ -51,5 +51,5 @@ Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para ace
 
 ## 📝 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. 
 
