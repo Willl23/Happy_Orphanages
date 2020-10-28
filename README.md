@@ -36,7 +36,7 @@ $ cd / happy
 $ npm install
 
 <h2> Run </h2>
-$ npm início
+$ npm start
 
 <h2> Acesse http: // localhost: 5500 em seu navegador </h2>
 
