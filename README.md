@@ -32,7 +32,7 @@ $ git clone https://github.com/Willl23/Happy_Orphanages
 <h2> Acesse o repositório em seu terminal. Exemplo: </h2>
 $ cd / happy
 
-<h2> Instalar dependências </ha>
+<h2> Instalar dependências </h2>
 $ npm install
 
 <h2> Run </h2>
