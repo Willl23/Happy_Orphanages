@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guilhermecapitao/nlw3-discovery-happy.git"
+    "url": "git+https://github.com/Willl23/Happy_Orphanages.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guilhermecapitao/nlw3-discovery-happy/issues"
+    "url": "https://github.com/Willl23/Happy_Orphanages/issues"
   },
-  "homepage": "https://github.com/guilhermecapitao/nlw3-discovery-happy#readme",
+  "homepage": "https://github.com/Willl23/Happy_Orphanages#readme",
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.1",
